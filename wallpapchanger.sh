@@ -1,4 +1,5 @@
 #!/bin/bash 
+
 # defines username and image file
 export USER
 export IMAGE
